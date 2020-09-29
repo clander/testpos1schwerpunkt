@@ -7,3 +7,6 @@ myNewFeature
 asdfa
 sdf
 asdfadf
+
+Feature 2 hinzugefügt.
+asdföalskdjf öjkl 
